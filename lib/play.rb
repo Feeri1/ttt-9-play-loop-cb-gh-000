@@ -43,5 +43,6 @@ def play(board)
     turn(board)
     if counter > 8
       break
+    end
   end
 end
